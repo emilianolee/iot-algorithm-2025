@@ -85,6 +85,9 @@ IoT 개발자 자료구조와 알고리즘(코딩테스트) 리포지토리 2025
         - 프랙탈 연습
 
 
+https://github.com/user-attachments/assets/6c889c6f-003a-4373-a037-4da038df63ff
+
+
 - 자료구조/알고리즘    
     - 정렬 : [노트북](./day06/da05_sort.ipynb)
 
