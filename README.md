@@ -105,4 +105,5 @@ https://github.com/user-attachments/assets/6c889c6f-003a-4373-a037-4da038df63ff
 - 자료구조/알고리즘    
     - 검색 : [노트북](./day08/da01_search.ipynb)
         - 검색 구현 : [파이썬](./day08/da02_find_LibBook.py)
+        - 검색 구현 : [파이썬](./day08/da03_convenientStore.py)
     - 코딩테스트
